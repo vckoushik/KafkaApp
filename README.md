@@ -1,6 +1,5 @@
 # Kafka
 ## Prerequisite
-- Knowledge
 - Tools
   - Node.js: [Download Node.JS](https://nodejs.org/en)
   - Docker: [Download Docker](https://www.docker.com)
